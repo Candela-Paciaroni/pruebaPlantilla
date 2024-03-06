@@ -1,0 +1,118 @@
+.csf-taxonomy .csf-section-title, .customize-control-csf .csf-field-heading {
+    position: relative;
+    background: #FFF;
+    font-size: 14px;
+    text-transform: capitalize;
+    color: #000;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-align: left;
+    padding: 12px 15px;
+    border-left: 3px solid #0073aa;
+    margin: 0 0;
+}
+.csf-taxonomy .csf-section-title{
+    margin: 45px 0 5px;
+}
+.edit-post-meta-boxes-area #poststuff h2.hndle {
+    position: relative;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #000;
+    line-height: 1;
+    font-weight: 700;
+    letter-spacing: 0;
+    text-align: left;
+    padding: 12px 10px;
+    margin: 30px 0 10px;
+}
+.csf-section-title h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    word-spacing: 4px;
+}
+.mt40{
+    margin-top: 40px;
+}
+.cml{
+    line-height: 24px;
+}
+.customizer_devider {
+    height: 2px;
+    background: #FFF;
+    margin: 15px 0 10px;
+}
+.displayBlocks{
+    display: block;
+    width: 100%;
+}
+
+/*-- Easy Mailchimp Overwrite ---*/
+.postbox .fw-options-tabs-wrapper > .fw-options-tabs-list {
+    padding: 0;
+}
+.ui-widget-header {
+    border: none;
+    background: transparent;
+    color: inherit;
+    font-weight: bold;
+    border: none;
+    border-radius: 0 !important;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active{
+    background: transparent !important;
+    border: none !important;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+    background: transparent;
+    border: none;
+}
+.ui-widget-content{
+    border: none;
+}
+/*-- Easy Mailchimp Overwrite ---*/
+
+
+/* ul slider control  */
+.csf-field-slider .ui-slider-range {
+    height: 4px;
+    background: #0073aa;
+}
+.csf-field-slider .ui-slider {
+    height: 4px;
+}
+.csf-slider-ui .ui-state-default{
+    background: #0073aa;
+    border-radius: 500%;
+}
+.csf-slider-ui .ui-state-default:hover{
+    background: #0073aa;
+}
+/* csf Tite  */
+.csf-taxonomy-add-fields>.csf-field>.csf-title h4 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0.1em 0;
+}
+.csf.csf-taxonomy{
+    margin-bottom: 70px;
+}
+.csf-metabox .csf-sections .csf-title h4{
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0.1em 0;
+}
+/* csf Sub title  */
+.csf-metabox .csf-field.csf-field-subheading {
+    padding: 10px 20px;
+    border-left: 3px solid #0073aa;
+}
+/* inline tab  */
+.csf-theme-light .csf-nav-inline{
+    border: 1px solid #ccd0d4;
+}

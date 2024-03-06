@@ -1,0 +1,318 @@
+@font-face {
+  font-family: 'LogisFare';
+  src:  url('../fonts/LogisFare.eot?xms7b4');
+  src:  url('../fonts/LogisFare.eot?xms7b4#iefix') format('embedded-opentype'),
+    url('../fonts/LogisFare.ttf?xms7b4') format('truetype'),
+    url('../fonts/LogisFare.woff?xms7b4') format('woff'),
+    url('../fonts/LogisFare.svg?xms7b4#LogisFare') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="logisfare-"], [class*=" logisfare-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'LogisFare' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.logisfare-user-circle:before {
+  content: "\e960";
+}
+.logisfare-quoat:before {
+  content: "\e95a";
+}
+.logisfare-left-arrow:before {
+  content: "\e95b";
+}
+.logisfare-replay-r:before {
+  content: "\e95c";
+}
+.logisfare-right-arrow:before {
+  content: "\e95d";
+}
+.logisfare-cart2:before {
+  content: "\e95e";
+}
+.logisfare-search2:before {
+  content: "\e95f";
+}
+.logisfare-air:before {
+  content: "\e900";
+}
+.logisfare-arrow_brand:before {
+  content: "\e901";
+}
+.logisfare-arrow_next:before {
+  content: "\e902";
+}
+.logisfare-arrow_prev:before {
+  content: "\e903";
+}
+.logisfare-arrow_right1:before {
+  content: "\e904";
+}
+.logisfare-arrowDown:before {
+  content: "\e905";
+}
+.logisfare-call:before {
+  content: "\e906";
+}
+.logisfare-call1:before {
+  content: "\e907";
+}
+.logisfare-call2:before {
+  content: "\e908";
+}
+.logisfare-cars:before {
+  content: "\e909";
+}
+.logisfare-cart:before {
+  content: "\e90a";
+}
+.logisfare-clock:before {
+  content: "\e90b";
+}
+.logisfare-cocation02:before {
+  content: "\e90c";
+}
+.logisfare-commercial:before {
+  content: "\e90d";
+}
+.logisfare-cost:before {
+  content: "\e90e";
+}
+.logisfare-cus_glo:before {
+  content: "\e90f";
+}
+.logisfare-custom_design:before {
+  content: "\e910";
+}
+.logisfare-delivary:before {
+  content: "\e911";
+}
+.logisfare-delivary_goods:before {
+  content: "\e912";
+}
+.logisfare-design_house:before {
+  content: "\e913";
+}
+.logisfare-design_plan:before {
+  content: "\e914";
+}
+.logisfare-dimont:before {
+  content: "\e915";
+}
+.logisfare-edite:before {
+  content: "\e916";
+}
+.logisfare-editor_check:before {
+  content: "\e917";
+}
+.logisfare-email:before {
+  content: "\e918";
+}
+.logisfare-envalope:before {
+  content: "\e919";
+}
+.logisfare-envelope-open:before {
+  content: "\e91a";
+}
+.logisfare-family_shelter:before {
+  content: "\e91b";
+}
+.logisfare-fax:before {
+  content: "\e91c";
+}
+.logisfare-furniture:before {
+  content: "\e91d";
+}
+.logisfare-game_making:before {
+  content: "\e91e";
+}
+.logisfare-gameplay:before {
+  content: "\e91f";
+}
+.logisfare-grid-view:before {
+  content: "\e920";
+}
+.logisfare-headphone:before {
+  content: "\e921";
+}
+.logisfare-heart:before {
+  content: "\e922";
+}
+.logisfare-hospitality:before {
+  content: "\e923";
+}
+.logisfare-house:before {
+  content: "\e924";
+}
+.logisfare-inbox:before {
+  content: "\e925";
+}
+.logisfare-institute:before {
+  content: "\e926";
+}
+.logisfare-left_sec:before {
+  content: "\e927";
+}
+.logisfare-list-view:before {
+  content: "\e928";
+}
+.logisfare-location:before {
+  content: "\e929";
+}
+.logisfare-location_root:before {
+  content: "\e92a";
+}
+.logisfare-location-map:before {
+  content: "\e92b";
+}
+.logisfare-logic_sol:before {
+  content: "\e92c";
+}
+.logisfare-long-arrow-left:before {
+  content: "\e92d";
+}
+.logisfare-long-arrow-right:before {
+  content: "\e92e";
+}
+.logisfare-minus:before {
+  content: "\e92f";
+}
+.logisfare-multipurpose:before {
+  content: "\e930";
+}
+.logisfare-ocean:before {
+  content: "\e931";
+}
+.logisfare-ocean2:before {
+  content: "\e932";
+}
+.logisfare-office_desk:before {
+  content: "\e933";
+}
+.logisfare-our_history:before {
+  content: "\e934";
+}
+.logisfare-our_mission:before {
+  content: "\e935";
+}
+.logisfare-our_vision:before {
+  content: "\e936";
+}
+.logisfare-parcel:before {
+  content: "\e937";
+}
+.logisfare-pdf:before {
+  content: "\e938";
+}
+.logisfare-plan_decor:before {
+  content: "\e939";
+}
+.logisfare-plan2:before {
+  content: "\e93a";
+}
+.logisfare-play:before {
+  content: "\e93b";
+}
+.logisfare-play1:before {
+  content: "\e93c";
+}
+.logisfare-plus:before {
+  content: "\e93d";
+}
+.logisfare-pricing:before {
+  content: "\e93e";
+}
+.logisfare-progress:before {
+  content: "\e93f";
+}
+.logisfare-quote:before {
+  content: "\e940";
+}
+.logisfare-quote1:before {
+  content: "\e941";
+}
+.logisfare-reply:before {
+  content: "\e942";
+}
+.logisfare-residential:before {
+  content: "\e943";
+}
+.logisfare-right_sec:before {
+  content: "\e944";
+}
+.logisfare-room_dec:before {
+  content: "\e945";
+}
+.logisfare-scall:before {
+  content: "\e946";
+}
+.logisfare-search:before {
+  content: "\e947";
+}
+.logisfare-service:before {
+  content: "\e948";
+}
+.logisfare-shipping:before {
+  content: "\e949";
+}
+.logisfare-solo_villa:before {
+  content: "\e94a";
+}
+.logisfare-solutions:before {
+  content: "\e94b";
+}
+.logisfare-tag:before {
+  content: "\e94c";
+}
+.logisfare-tell:before {
+  content: "\e94d";
+}
+.logisfare-tracking:before {
+  content: "\e94e";
+}
+.logisfare-tracking2:before {
+  content: "\e94f";
+}
+.logisfare-train:before {
+  content: "\e950";
+}
+.logisfare-transit:before {
+  content: "\e951";
+}
+.logisfare-usd:before {
+  content: "\e952";
+}
+.logisfare-user:before {
+  content: "\e953";
+}
+.logisfare-user_star:before {
+  content: "\e954";
+}
+.logisfare-vip_shelter:before {
+  content: "\e955";
+}
+.logisfare-word_precess01:before {
+  content: "\e956";
+}
+.logisfare-word_precess02:before {
+  content: "\e957";
+}
+.logisfare-word_precess03:before {
+  content: "\e958";
+}
+.logisfare-word_precess04:before {
+  content: "\e959";
+}
